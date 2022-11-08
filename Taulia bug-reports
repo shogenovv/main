@@ -10,3 +10,7 @@ Values provided in "Due Date" column are NOT in a common date format
 Values provided in "PO #" column are in a common date format. Is that how we want to enumerate POs?
 Replace "Showing 422 invoices" with "Showing 1-10 of 422 invoices"
 Tooltip conflicting with its corresponding icon on "Invoices" page
+
+==================================================================
+
+http://taulia.portnov.com/
