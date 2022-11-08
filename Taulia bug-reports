@@ -1,0 +1,12 @@
+Search results table: 11 rows are shown instead of 10 as per "Results per page" listbox
+Search results table: in 11 row the "Actions" button is missing
+Link to the page 5 is missing under the Search results table
+Tooltip shows «Approved» text when hovering the mouse on «Paid» icon in 4th row of «Status» column
+Miscalculation in "Showing 422 invoices": 422 is larger than 10 results 32 times (pages)
+Replace «Invoce #» with «Invoice #» in the head of the search results table
+Inconsistency in date formats used in "Invoice date" fields vs cells of "Inv. Date" column
+Mismatch in amount column of the table: triangle shows descending, numbers are ascending
+Values provided in "Due Date" column are NOT in a common date format
+Values provided in "PO #" column are in a common date format. Is that how we want to enumerate POs?
+Replace "Showing 422 invoices" with "Showing 1-10 of 422 invoices"
+Tooltip conflicting with its corresponding icon on "Invoices" page
